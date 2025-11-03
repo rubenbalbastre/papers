@@ -29,7 +29,10 @@ Each entry includes:
 | Title | Tags | Notes |
 | -- | -- | -- |
 | [The Llama 3 Herd of Models](https://arxiv.org/pdf/2407.21783) | `LLM`, `LLAMA 3` | General understanding of training stages |
-
+| [Why Language Models Hallucinate](https://arxiv.org/pdf/2509.04664) | `Hallucination` | not too bad |
+| [RL’S RAZOR: WHY ONLINE REINFORCEMENT LEARNING FORGETS LESS](https://arxiv.org/pdf/2509.04259)| `Hallucination` | RL vs SFT forgettting |
+|[Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?](https://arxiv.org/pdf/2405.05904)|`Hallucination` | MUST read it |
+|[The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://arxiv.org/pdf/2506.06941)| `Reasoning` | Conclusions not too fair but interesting |
 ---
 
 ### 🔸 LLM Agents
