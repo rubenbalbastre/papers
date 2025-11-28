@@ -33,6 +33,8 @@ Each entry includes:
 | [RL’S RAZOR: WHY ONLINE REINFORCEMENT LEARNING FORGETS LESS](https://arxiv.org/pdf/2509.04259)| `Hallucination` | RL vs SFT forgettting |
 |[Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?](https://arxiv.org/pdf/2405.05904)|`Hallucination` | MUST read it |
 |[The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://arxiv.org/pdf/2506.06941)| `Reasoning` | Conclusions not too fair but interesting |
+|[The "think" tool](https://www.anthropic.com/engineering/claude-think-tool) | `Tool Use` | Awesome |
+
 ---
 
 ### 🔸 LLM Agents
@@ -59,6 +61,7 @@ Each entry includes:
 | [A Path Towards Autonomous Machine Intelligence](https://arxiv.org/abs/2402.17193) | `JEPA`, `Representation Learning` | JEPA predicts embeddings rather than sensory data, offering a scalable self-supervised framework. |
 | [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361) | `Scaling`, `Transformers` | Demonstrates predictable performance scaling with model size, dataset size, and compute. |
 | [The Art of Scaling Reinforcement Learning Compute for LLMs](https://arxiv.org/html/2510.13786v1#S1) | `RL` | need to deep dive |
+| [Nested Learning: The Illusion of Deep Learning Architectures](https://abehrouz.github.io/files/NL.pdf) | `NL` | need to read carefully again
 
 ---
 
