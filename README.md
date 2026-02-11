@@ -34,6 +34,8 @@ Each entry includes:
 |[Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?](https://arxiv.org/pdf/2405.05904)|`Hallucination` | MUST read it |
 |[The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://arxiv.org/pdf/2506.06941)| `Reasoning` | Conclusions not too fair but interesting |
 |[The "think" tool](https://www.anthropic.com/engineering/claude-think-tool) | `Tool Use` | Awesome |
+| [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) | `Alignment`, `RLHF`, `DPO` |  |
+| [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) | `LLM`, `Few-Shot`, `GPT-3` |  |
 
 ---
 
@@ -61,7 +63,9 @@ Each entry includes:
 | [A Path Towards Autonomous Machine Intelligence](https://arxiv.org/abs/2402.17193) | `JEPA`, `Representation Learning` | JEPA predicts embeddings rather than sensory data, offering a scalable self-supervised framework. |
 | [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361) | `Scaling`, `Transformers` | Demonstrates predictable performance scaling with model size, dataset size, and compute. |
 | [The Art of Scaling Reinforcement Learning Compute for LLMs](https://arxiv.org/html/2510.13786v1#S1) | `RL` | need to deep dive |
-| [Nested Learning: The Illusion of Deep Learning Architectures](https://abehrouz.github.io/files/NL.pdf) | `NL` | need to read carefully again
+| [Nested Learning: The Illusion of Deep Learning Architectures](https://abehrouz.github.io/files/NL.pdf) | `NL` | need to read carefully again |
+| [Towards Unbounded Machine Unlearning](https://arxiv.org/abs/2302.09880) | `Unlearning` |  |
+| [Muon is Scalable for LLM Training](https://arxiv.org/pdf/2502.16982) | `Optimization`, `LLM Training` |  |
 
 ---
 
