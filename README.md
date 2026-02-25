@@ -36,6 +36,8 @@ Each entry includes:
 |[The "think" tool](https://www.anthropic.com/engineering/claude-think-tool) | `Tool Use` | Awesome |
 | [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) | `Alignment`, `RLHF`, `DPO` |  |
 | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) | `LLM`, `Few-Shot`, `GPT-3` |  |
+| [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300) | `Math Reasoning`, `LLM` |  |
+| [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961) | `MoE`, `Sparsity` |  |
 
 ---
 
@@ -66,6 +68,7 @@ Each entry includes:
 | [Nested Learning: The Illusion of Deep Learning Architectures](https://abehrouz.github.io/files/NL.pdf) | `NL` | need to read carefully again |
 | [Towards Unbounded Machine Unlearning](https://arxiv.org/abs/2302.09880) | `Unlearning` |  |
 | [Muon is Scalable for LLM Training](https://arxiv.org/pdf/2502.16982) | `Optimization`, `LLM Training` |  |
+| [Large Language Model Unlearning](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be52acf6bccf4a8c0a90fe2f5cfcead3-Abstract-Conference.html) | `Unlearning`, `LLM` |  |
 
 ---
 
